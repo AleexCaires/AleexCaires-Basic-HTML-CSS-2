@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="275px" height="198px" viewBox="0 0 275 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Combined Shape</title>
+    <defs>
+        <linearGradient x1="59.0091211%" y1="39.3982257%" x2="39.5074436%" y2="75.92%" id="linearGradient-1">
+            <stop stop-color="#9B66FF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-240.000000, -135.000000)" fill="url(#linearGradient-1)">
+            <g id="Hero" transform="translate(0.000000, 50.000000)">
+                <path d="M413.5,212 C433.106109,212 449,227.893891 449,247.5 C449,267.106109 433.106109,283 413.5,283 C393.893891,283 378,267.106109 378,247.5 C378,227.893891 393.893891,212 413.5,212 Z M309,109 C347.107648,109 378,139.892352 378,178 C378,216.107648 347.107648,247 309,247 C270.892352,247 240,216.107648 240,178 C240,139.892352 270.892352,109 309,109 Z M482,85 C500.225397,85 515,99.7746033 515,118 C515,136.225397 500.225397,151 482,151 C463.774603,151 449,136.225397 449,118 C449,99.7746033 463.774603,85 482,85 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
